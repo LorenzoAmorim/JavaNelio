@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../../Ex_Web"
+	},
+	{
+		"path": "../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Ex_Web"
+  }
+}

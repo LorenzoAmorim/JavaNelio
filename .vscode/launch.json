@@ -1,0 +1,56 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "castingEx5",
+      "request": "launch",
+      "mainClass": "castingEx5",
+      "projectName": "JavaNelio_99286f6c"
+    },
+    {
+      "type": "java",
+      "name": "castingEx4",
+      "request": "launch",
+      "mainClass": "castingEx4",
+      "projectName": "JavaNelio_99286f6c"
+    },
+    {
+      "type": "java",
+      "name": "castingEx1",
+      "request": "launch",
+      "mainClass": "castingEx1",
+      "projectName": "JavaNelio_99286f6c"
+    },
+    {
+      "type": "java",
+      "name": "casting",
+      "request": "launch",
+      "mainClass": "casting",
+      "projectName": "JavaNelio_99286f6c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Aula1",
+      "request": "launch",
+      "mainClass": "Aula1",
+      "projectName": "JavaNelio_99286f6c"
+    },
+    {
+      "type": "java",
+      "name": "exercicio1",
+      "request": "launch",
+      "mainClass": "exercicio1",
+      "projectName": "JavaNelio_99286f6c"
+    }
+  ]
+}
