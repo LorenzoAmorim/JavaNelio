@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main7Ex",
+      "request": "launch",
+      "mainClass": "main7Ex",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main6",
+      "request": "launch",
+      "mainClass": "main6",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main1",
+      "request": "launch",
+      "mainClass": "main1",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main5",
+      "request": "launch",
+      "mainClass": "main5",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main4",
+      "request": "launch",
+      "mainClass": "main4",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main3",
+      "request": "launch",
+      "mainClass": "main3",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main2",
+      "request": "launch",
+      "mainClass": "main2",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
       "name": "castingEx5",
       "request": "launch",
       "mainClass": "castingEx5",

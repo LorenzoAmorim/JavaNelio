@@ -1,10 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "ProcessamentoDeDadosCasting",
-    "ExercicioJava1/exercicioUm/src",
-    "CursoProgramacao/src",
-    "Aula2Java/ProcessamentoDeDadosCasting",
-    "Aula1Java/src",
-    "Aula3ProcessamentoDeDadosCasting"
+    "Aula4EntradaDeDadosP1",
+    "Aula3ProcessamentoDeDadosCasting",
+    "Aula5EntradaDeDadosP2"
   ]
 }

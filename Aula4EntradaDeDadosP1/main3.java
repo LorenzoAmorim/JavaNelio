@@ -4,6 +4,7 @@ public class main3 {
    public static void main(String[] args) {
       //SE for usar o separador de decimais como ponto, ANTES da declaração "scanner" utilizar o "Locale.setDefault(Locale.US);"
       //SE usar, não esquecer de importar o java.util.locale no início do código: import java.util.Locale;
+      
       //Locale.setDefault(Locale.US);
       Scanner sc = new Scanner(System.in);
       

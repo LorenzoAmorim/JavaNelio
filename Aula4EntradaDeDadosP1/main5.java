@@ -9,11 +9,18 @@ public class main5 {
       int y;
       double z;
 
+      //para palavra-string = next
       x = sc.next();
+      //para número-inteiro = nextInt
       y = sc.nextInt();
+      //para número-double = nextDouble 
       z = sc.nextDouble();
 
       System.out.println("Dados digitados:" + x +" " + y + " " + z);
+      System.out.println(x);
+      System.out.println(y);
+      //número double tem que ser com ponto, se não definir o Locale ou se não for "printf"
+      System.out.println(z);
 
       sc.close();
    }
