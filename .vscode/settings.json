@@ -1,3 +1,6 @@
 {
-  "java.project.sourcePaths": ["02ESTRUTURA_CONDICIONAL/Aula1_If-Else"]
+  "java.project.sourcePaths": [
+    "02ESTRUTURA_CONDICIONAL/Aula1_If-Else",
+    "03ESTRUTURA_REPETITIVA"
+  ]
 }
