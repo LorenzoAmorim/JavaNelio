@@ -9,11 +9,11 @@ public class main5 {
       int y;
       double z;
 
-      //para palavra-string = next
+      //para palavra que é string = next
       x = sc.next();
-      //para número-inteiro = nextInt
+      //para número que é inteiro = nextInt
       y = sc.nextInt();
-      //para número-double = nextDouble 
+      //para número que é double = nextDouble 
       z = sc.nextDouble();
 
       System.out.println("Dados digitados:" + x +" " + y + " " + z);

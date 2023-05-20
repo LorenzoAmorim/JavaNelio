@@ -6,6 +6,8 @@ public class main2 {
       int x;
       x = sc.nextInt();
       //Para ler um número inteiro
+
+      
       System.out.println("Você digitou: " + x);
 
       sc.close();

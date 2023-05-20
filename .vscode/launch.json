@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main5",
+      "request": "launch",
+      "mainClass": "main5",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "ex6",
+      "request": "launch",
+      "mainClass": "ex6",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "ex5",
+      "request": "launch",
+      "mainClass": "ex5",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "ex4",
+      "request": "launch",
+      "mainClass": "ex4",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "ex3",
+      "request": "launch",
+      "mainClass": "ex3",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "ex2",
+      "request": "launch",
+      "mainClass": "ex2",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
+      "name": "ex1",
+      "request": "launch",
+      "mainClass": "ex1",
+      "projectName": "JavaNelio_b9d3e712"
+    },
+    {
+      "type": "java",
       "name": "main7Ex",
       "request": "launch",
       "mainClass": "main7Ex",
