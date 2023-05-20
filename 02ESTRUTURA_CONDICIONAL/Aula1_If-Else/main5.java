@@ -1,7 +1,8 @@
 import java.util.Scanner;
-
+//ESTRUTURA COM SWITCH-CASE (DEMO COM IF-ELSE)
 public class main5 {
-
+//SE NÃO USAR A SINTAXE SWITCH-CASE, USA-SE O IF-ELSE
+//MODO IF ELSE:
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
             int x = sc.nextInt();

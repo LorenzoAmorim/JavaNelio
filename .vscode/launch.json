@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main8",
+      "request": "launch",
+      "mainClass": "main8",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main7",
+      "request": "launch",
+      "mainClass": "main7",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main6",
+      "request": "launch",
+      "mainClass": "main6",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "main5",
       "request": "launch",
       "mainClass": "main5",
