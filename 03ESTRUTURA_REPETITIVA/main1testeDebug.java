@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 //TESTE DE DEBUG
-public class main1 {
+public class main1testeDebug {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         

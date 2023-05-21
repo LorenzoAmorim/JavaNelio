@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main5exercicio3while",
+      "request": "launch",
+      "mainClass": "main5exercicio3while",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main4exercicio2while",
+      "request": "launch",
+      "mainClass": "main4exercicio2while",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main3exercicioswhile",
+      "request": "launch",
+      "mainClass": "main3exercicioswhile",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main3testemesa",
+      "request": "launch",
+      "mainClass": "main3testemesa",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "main2",
       "request": "launch",
       "mainClass": "main2",
