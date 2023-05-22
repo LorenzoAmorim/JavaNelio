@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main6estruturaFOR",
+      "request": "launch",
+      "mainClass": "main6estruturaFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "main5exercicio3while",
       "request": "launch",
       "mainClass": "main5exercicio3while",
