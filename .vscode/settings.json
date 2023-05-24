@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "03ESTRUTURA_REPETITIVA",
     "02ESTRUTURA_CONDICIONAL/Aula1_If-Else",
-    "03ESTRUTURA_REPETITIVA"
+    "01ESTRUTURA_SEQUENCIAL/Aula6FuncoesMatJava/cudeboi"
   ]
 }

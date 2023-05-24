@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main12exemploFOR",
+      "request": "launch",
+      "mainClass": "main12exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main11exemploFOR",
+      "request": "launch",
+      "mainClass": "main11exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main10exemploFOR",
+      "request": "launch",
+      "mainClass": "main10exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main9exemploFOR",
+      "request": "launch",
+      "mainClass": "main9exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main8exemploFOR",
+      "request": "launch",
+      "mainClass": "main8exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "main7exemploFOR",
+      "request": "launch",
+      "mainClass": "main7exemploFOR",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "main6estruturaFOR",
       "request": "launch",
       "mainClass": "main6estruturaFOR",
