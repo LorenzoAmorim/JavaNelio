@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exercicio1for",
+      "request": "launch",
+      "mainClass": "exercicio1for",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "main12exemploFOR",
       "request": "launch",
       "mainClass": "main12exemploFOR",
