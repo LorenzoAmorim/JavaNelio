@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exercicio4for",
+      "request": "launch",
+      "mainClass": "exercicio4for",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "exercicio2for",
+      "request": "launch",
+      "mainClass": "exercicio2for",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "ercicio2for",
+      "request": "launch",
+      "mainClass": "ercicio2for",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "exercicio1for",
       "request": "launch",
       "mainClass": "exercicio1for",
