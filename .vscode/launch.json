@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "funcaostring1",
+      "request": "launch",
+      "mainClass": "funcaostring1",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "funcString1",
+      "request": "launch",
+      "mainClass": "funcString1",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "dowhile2",
       "request": "launch",
       "mainClass": "dowhile2",
