@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "CLASSES_ATRIBUTOS_MEMBROS_ESTATICOS.course.src.application.Program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "sintaxe1",
+      "request": "launch",
+      "mainClass": "sintaxe1",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "operacaosplit",
+      "request": "launch",
+      "mainClass": "operacaosplit",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "funcaostring1",
       "request": "launch",
       "mainClass": "funcaostring1",

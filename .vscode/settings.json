@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "08SINTAXE_FUNCOES",
     "07FUNCOES_PARA_STRING",
     "06OPERADORES_BITWISE",
     "05ESTRUTURA_REPETITIVA_DOWHILE",
