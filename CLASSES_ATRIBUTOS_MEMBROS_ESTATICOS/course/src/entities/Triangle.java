@@ -13,7 +13,8 @@ public class Triangle {
 	//criar um método/função para calcular a fórmula do triângulo
 	//public: indica que o atributo ou método pode ser usado em outros arquivos
 	//double: tipo de dado que o método retorna(se o método não retorna nada, usa-se "void")
-	//() vazia: lista de parâmetros do método
+	/*() vazia: lista de parâmetros do método - vazia pois para calcular a área do triângulo
+	não necessita de parâmetros além dos "double a, b e c"*/
 	public double area() {
 		double p = (a+b+c)/2.0;
 		double result = Math.sqrt(p*(p-a)*(p-b)*(p-c));

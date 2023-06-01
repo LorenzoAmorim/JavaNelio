@@ -20,6 +20,9 @@ public class Program {
 		y = new Triangle();
 		
 		System.out.println("Enter the measures of triangle X: ");
+		/*A partir de agora, a função irá ler um número double (sc.nextDouble()) e irá
+		guardar num atributo "a" do objeto "x" = x.a*/
+		//x.a - para acessar o atributo "a" da classe Triangle
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
 		x.c = sc.nextDouble();
@@ -29,7 +32,7 @@ public class Program {
 		y.c = sc.nextDouble();
 		
 		
-		//a variável areaX recebe o objeto "x.area" da classe triangle
+		//a variável areaX recebe o objeto com o cálculo da fórmula "x.area" da classe triangle
 		double areaX = x.area();
 		double areaY = y.area();
 		

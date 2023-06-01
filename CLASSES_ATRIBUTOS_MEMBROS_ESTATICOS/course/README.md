@@ -31,3 +31,11 @@ p = a+b+c/2s
      Controladores: ProdutoController, ClienteController
      Utilitários: Calculadora, Compactador
     • Outros (views, repositórios, gerenciadores, etc.)
+
+    INSTANCIAÇÃO:
+DURANTE A EXECUÇÃO DO PROGRAMA PODEMOS FAZER UMA ALOCAÇÃO DINÂMICA DE MEMÓRIA.
+
+• x = new Triangle(); Será instanciada/criada um objeto do tipo Triangle em outra área de memória chamada Heap, essa área de memória é uma área onde são criada os objetos dinâmicos durante a execução.
+
+• O "x" é criado na classe principal e receberá o "new" e em seguida o nome da classe em que está sendo referenciada. ex: x = new Triangle
+
