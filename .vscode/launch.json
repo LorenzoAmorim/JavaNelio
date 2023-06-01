@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Program",
       "request": "launch",
+      "mainClass": "PROBLEMA_EXEMPLO_CLASSE_METODO.course.src.application.Program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
       "mainClass": "CLASSES_ATRIBUTOS_MEMBROS_ESTATICOS.course.src.application.Program",
       "projectName": "JavaNelio_b0cc9085"
     },
