@@ -1,18 +1,33 @@
-## Getting Started
+## RESOLVENDO UM PROBLEMA SEM ORIENTAÇÃO A OBJETOS 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#PROBLEMA EXEMPLO
 
-## Folder Structure
+Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas
+válidas). Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos
+possui a maior área.
+A fórmula para calcular a área de um triângulo a partir das medidas de seus lados a, b e c é a
+seguinte (fórmula de Heron):
 
-The workspace contains two folders by default, where:
+area=raiz quadrada de p( p - a)( p - b)( p - c)
+onde 
+p = a+b+c/2s
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+#O QUE É CLASSE:
+• É um tipo estruturado que pode conter (membros):
+• Atributos (dados / campos)
+• Métodos (funções / operações)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+• A classe também pode prover muitos outros recursos, tais como:
+    • Construtores
+    • Sobrecarga
+     Encapsulamento
+    • Herança
+    • Polimorfismo
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+• Exemplos:
+    • Entidades: Produto, Cliente, Triangulo
+    • Serviços: ProdutoService, ClienteService, EmailService, StorageService
+     Controladores: ProdutoController, ClienteController
+     Utilitários: Calculadora, Compactador
+    • Outros (views, repositórios, gerenciadores, etc.)
