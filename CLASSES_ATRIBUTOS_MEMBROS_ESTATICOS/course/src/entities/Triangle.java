@@ -1,5 +1,5 @@
 package CLASSES_ATRIBUTOS_MEMBROS_ESTATICOS.course.src.entities;
-//O TRIÂNGULO É UMA ENTIDADE COM TRÊS ATRIBUTOS:a, b e c.
+//O TRIÂNGULO É UMA ENTIDADE COM TRÊS ATRIBUTOS: a, b e c.
 
 //nome da classe
 public class Triangle {
