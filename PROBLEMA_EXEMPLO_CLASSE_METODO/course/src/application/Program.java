@@ -30,7 +30,18 @@ public class Program {
         //product.toString()
 
         
-        System.out.println(product);
+        System.out.println("\nProduct data: " + product + "\n");
+        System.out.print("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        //esse comando faz a atualização da quantidade dentro do objeto product
+        /*product: sinalizar a subclasse product- addProducts: sinalizar o método da classe
+        em que fará determinada ação- (quantity): determina o valor da variável que irá receber a ação*/
+        product.addProducts(quantity);
+        System.out.println("\nUpdated data: " + product + "\n");
+        System.out.print("Enter the number of products to be removed from stock: ");
+        quantity = sc.nextInt();
+        product.removeProducts(quantity);
+        System.out.println("\nUpdate data: " + product);
 
         sc.close();
     }
