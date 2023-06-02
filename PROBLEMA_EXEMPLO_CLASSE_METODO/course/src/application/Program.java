@@ -23,7 +23,14 @@ public class Program {
         System.out.print("Quantity in stock: ");
         product.quantity = sc.nextInt();
 
-        System.out.println(product.name + "," + product.price + "," + product.quantity);
+        //toda classe java é uma subclasse da classe Object
+        /*ou seja, toda classe é um Object, e o tipo object tem algumas operações padrão
+        getClass, equals, hasCode, toString*/
+        //product esta definida na classe Object, por isso está disponivel todos os métodos. 
+        //product.toString()
+
+        
+        System.out.println(product);
 
         sc.close();
     }

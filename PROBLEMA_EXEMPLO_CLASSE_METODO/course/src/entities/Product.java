@@ -26,5 +26,30 @@ public class Product {
     public void removeProducts(int quantity){
         this.quantity -= quantity;
     }
+    
+    /*como a classe Product também é um Object, estamos sobrepondo a operação toString padrão
+    do object, então no método toString podemos implementar a nossa versão do toString*/
+    public String toString(){
+        /*o método toString terá como ação o nome do produto, na forma de String
+        ou seja, se no programa principal e mandarmos imprimir o products.toString()
+        na variável name, ele irá receber o valor que for inserido na caixa "name*/
+        return name 
+        /*formatação normal e formatação para deixar com 2 casa decimais depois da vírgula
+        nas variáveis com preço e valores quebrados*/
+            + ", $ "    
+            + String.format("%.2f", price)
+            + ", "
+            + quantity
+            + " units, total: $ "
+            + String.format("%.2f",totalValueInStock());
 
+            /*ANTES DA FORMATAÇÃO
+            + ", $ " 
+            + price 
+            + ", " 
+            + quantity 
+            + " units, Total: $ "
+            + totalValueInStock();
+            */
+    }
 }
