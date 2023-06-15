@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "TERCEIRO_EXERCICIO_CLASSES_METODOS.course.src.Program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "Employee",
       "request": "launch",
       "mainClass": "SEGUNDO_EXERCICIO_CLASSES_METODOS.course.src.application.Employee",
