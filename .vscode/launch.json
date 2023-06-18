@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exemplo2_classe_calculator_membro_instancia",
+      "request": "launch",
+      "mainClass": "MEMBROS_ESTATICOS_P1.exemplo_classe_Calculator_com_membros_de_instancia.src.exemplo2_classe_calculator_membro_instancia",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "MEMBROS_ESTATICOS_P1.exemplo_classe_Calculator_com_membros_de_instancia.src.App",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "Program",
       "request": "launch",
       "mainClass": "TERCEIRO_EXERCICIO_CLASSES_METODOS.course.src.Program",
