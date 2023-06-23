@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "program",
+      "request": "launch",
+      "mainClass": "EXERCICIO_MEMBROS_ESTATICOS.fixExercicies.src.program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "exemplo2_classe_calculator_membro_instancia",
       "request": "launch",
       "mainClass": "MEMBROS_ESTATICOS_P1.exemplo_classe_Calculator_com_membros_de_instancia.src.exemplo2_classe_calculator_membro_instancia",
