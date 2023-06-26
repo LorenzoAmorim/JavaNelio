@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "CONTRUTORES.course.src.Program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "CONSTRUTORES.src.Program",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "program",
       "request": "launch",
       "mainClass": "EXERCICIO_MEMBROS_ESTATICOS.fixExercicies.src.program",
