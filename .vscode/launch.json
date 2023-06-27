@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Program2",
+      "request": "launch",
+      "mainClass": "SOBRECARGA.src.Program2",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "Program",
       "request": "launch",
       "mainClass": "CONTRUTORES.course.src.Program",
