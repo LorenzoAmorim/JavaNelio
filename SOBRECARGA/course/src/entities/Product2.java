@@ -1,4 +1,4 @@
-package SOBRECARGA.src.entities;
+package SOBRECARGA.course.src.entities;
 
 public class Product2 {
     public String name;

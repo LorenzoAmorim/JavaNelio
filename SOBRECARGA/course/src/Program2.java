@@ -1,7 +1,8 @@
-package SOBRECARGA.src;
+package SOBRECARGA.course.src;
 import java.util.Locale;
 import java.util.Scanner;
-import SOBRECARGA.src.entities.Product2;
+
+import SOBRECARGA.course.src.entities.Product2;
 
 public class Program2 {
 public static void main(String[] args) {
