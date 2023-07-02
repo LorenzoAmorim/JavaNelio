@@ -19,6 +19,12 @@ public class Product2 {
         //this.quantity = 0; //Atributo quantity opcional, pode-se colocar: "quantity = 0" apenas, ou nada.
     }
 
+    /*Pode-se incluir uma sobrecarga a mais, colocando o construtor padrão, assim podendo instanciar o 
+    construtor padrão no inicio da classe principal, obtendo os 3 métodos disponíveis para realizar o programa*/
+    public Product2(){
+
+    }
+
     public double totalValueInStock() {
         return price * quantity;
     }
