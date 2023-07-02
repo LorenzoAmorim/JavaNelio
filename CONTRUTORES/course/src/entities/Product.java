@@ -16,9 +16,6 @@ public class Product {
         this.quantity = quantity;
     }
 
-    public Product(String name2, double price2) {
-    }
-
     public double totalValueInStock() {
         return price * quantity;
     }
