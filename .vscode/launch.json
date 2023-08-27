@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Application",
+      "request": "launch",
+      "mainClass": "EXERCICIOS_SOBRECARGA_ENCAPSULAMENTO.course.src.Application",
+      "projectName": "JavaNelio_b0cc9085"
+    },
+    {
+      "type": "java",
       "name": "Program3",
       "request": "launch",
       "mainClass": "ENCAPSULAMENTO.src.Program3",
