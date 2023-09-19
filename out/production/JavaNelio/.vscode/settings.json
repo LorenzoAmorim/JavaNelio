@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": [
+    "08SINTAXE_FUNCOES",
+    "07FUNCOES_PARA_STRING",
+    "06OPERADORES_BITWISE",
+    "05ESTRUTURA_REPETITIVA_DOWHILE",
+    "04EXERCICIOS_FOR",
+    "03ESTRUTURA_REPETITIVA",
+    "02ESTRUTURA_CONDICIONAL/Aula1_If-Else",
+    "01ESTRUTURA_SEQUENCIAL/Aula6FuncoesMatJava/cudeboi",
+    ""
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}

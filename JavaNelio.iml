@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03ESTRUTURA_REPETITIVA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04EXERCICIOS_FOR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05ESTRUTURA_REPETITIVA_DOWHILE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07FUNCOES_PARA_STRING" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08SINTAXE_FUNCOES" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

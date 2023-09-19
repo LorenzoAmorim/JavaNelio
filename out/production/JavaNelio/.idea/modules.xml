@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/01ESTRUTURA_SEQUENCIAL.iml" filepath="$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/01ESTRUTURA_SEQUENCIAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02ESTRUTURA_CONDICIONAL/02ESTRUTURA_CONDICIONAL.iml" filepath="$PROJECT_DIR$/02ESTRUTURA_CONDICIONAL/02ESTRUTURA_CONDICIONAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula1OperacoesBasicasJava/Aula1OperacoesBasicasJava.iml" filepath="$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula1OperacoesBasicasJava/Aula1OperacoesBasicasJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula2Exercicio1Java/Aula2Exercicio1Java.iml" filepath="$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula2Exercicio1Java/Aula2Exercicio1Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula6FuncoesMatJava/Aula6FuncoesMatJava.iml" filepath="$PROJECT_DIR$/01ESTRUTURA_SEQUENCIAL/Aula6FuncoesMatJava/Aula6FuncoesMatJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNelio.iml" filepath="$PROJECT_DIR$/JavaNelio.iml" />
+    </modules>
+  </component>
+</project>
