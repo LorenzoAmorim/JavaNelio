@@ -10,3 +10,4 @@ public class Program {
         int y = (int) obj;
     }
 }
+/**/
