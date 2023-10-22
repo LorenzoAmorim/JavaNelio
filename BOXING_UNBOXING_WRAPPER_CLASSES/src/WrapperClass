@@ -1,0 +1,13 @@
+## Wrapper classes ##
+
+• São classes equivalentes aos tipos primitivos
+
+• Boxing e unboxing é natural na linguagem
+
+• Uso comum: campos de entidades em sistemas de informação (IMPORTANTE!)
+    • Pois tipos referência (classes) aceitam valor null e usufruem dos recursos OO
+
+    Object -> Number - Boolean - Character
+    Number -> Byte (byte) - Short(short) - Integer(int) - Long(long) - Float(float) - Double(double)
+    Boolean -> boolean
+    Character -> char
