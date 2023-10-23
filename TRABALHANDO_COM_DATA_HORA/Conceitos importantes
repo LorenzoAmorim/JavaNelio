@@ -1,0 +1,6 @@
+• Data-[hora] local:
+    ano-mês-dia-[hora] sem fuso horário
+    [hora] opcional • Data-hora global:
+    ano-mês-dia-hora com fuso horário
+• Duração:
+    tempo decorrido entre duas data-horas
