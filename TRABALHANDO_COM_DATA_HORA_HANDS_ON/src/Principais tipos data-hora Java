@@ -1,0 +1,10 @@
+• Data-hora local
+    LocalDate
+    LocalDateTime
+• Data-hora global
+    Instant
+• Duração
+    Duration
+• Outros
+    ZoneId
+    ChronoUnit
