@@ -1,0 +1,10 @@
+# HERANÇA
+
+## É UM TIPO DE ASSOCIAÇÃO QUE PERIMTE QUE UMA CLASSE HERDE TODOS OS DADOS E COMPORTAMENTOS DE OUTRA
+
+## VANTAGENS
+### Reuso 
+### Polimorfismo
+
+## SINTAXE 
+### class A extends class B
