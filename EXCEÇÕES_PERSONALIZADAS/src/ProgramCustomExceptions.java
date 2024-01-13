@@ -1,6 +1,7 @@
 package EXCEÇÕES_PERSONALIZADAS.src;
 
 import EXCEÇÕES_PERSONALIZADAS.model.entities.Reservation;
+import EXCEÇÕES_PERSONALIZADAS.model.exceptions.DomainException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -9,25 +10,22 @@ import java.util.Scanner;
 
 public class ProgramCustomExceptions {
 
-    public static void main(String[] args) throws ParseException {
-        // SOLUÇÃO 2 - RUIM
+    public static void main(String[] args){
+        // SOLUÇÃO 3 - BOA
 
         Scanner sc = new Scanner(System.in);
         // função usada para definir o formato da data
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
-        System.out.print("Room number: ");
-        int number = sc.nextInt();
-        System.out.print("Check-in date (dd/MM/yyyy): ");
-        // método 'parse' usado para converter a variável 'Date' em uma data
-        Date checkIn = sdf.parse(sc.next());
-        System.out.print("Check-out date (dd/MM/yyyy): ");
-        Date checkOut = sdf.parse(sc.next());
+        try{
+            System.out.print("Room number: ");
+            int number = sc.nextInt();
+            System.out.print("Check-in date (dd/MM/yyyy): ");
+            // método 'parse' usado para converter a variável 'Date' em uma data
+            Date checkIn = sdf.parse(sc.next());
+            System.out.print("Check-out date (dd/MM/yyyy): ");
+            Date checkOut = sdf.parse(sc.next());
 
-        if (!checkOut.after(checkIn)) {
-            System.out.println("Error in reservation: Check-out date must be after check-in date");
-        }
-        else {
             Reservation reservation = new Reservation(number, checkIn, checkOut);
             System.out.println("Reservation: " + reservation);
 
@@ -38,14 +36,26 @@ public class ProgramCustomExceptions {
             System.out.print("Check-out date (dd/MM/yyyy): ");
             checkOut = sdf.parse(sc.next());
 
-            // condição para erro 'error' instanciada da classe 'Reservation' e adicionada lógica para aparecer mensagem
-            // do erro
-            String error = reservation.updateDates(checkIn, checkOut);
-            if(error != null){
-                System.out.println("Error in reservation: " + error);
-            }
+            reservation.updateDates(checkIn, checkOut);
             System.out.println("Reservation: " + reservation);
         }
+        // No primeiro 'catch' pega o erro do 'ParseException', ou seja, da entrada do valor da data
+        // de reserva, onde no 'parse' pode haver um possível erro.
+        catch (ParseException e){
+            System.out.println("Invalid date format");
+        }
+        // No segundo 'catch' ele pega o erro do 'DomainException', ou seja, da atualização da data da reserva
+        // onde criamos uma classe para o 'DomainException' para passar mensagens personalizadas da classe 'Reservation'
+        catch (DomainException e){
+            System.out.println("Error in reservation: " + e.getMessage());
+        }
+        // outro 'catch' para capturar qualquer outra exceção que seja
+        catch(RuntimeException e){
+            System.out.println("Unexpected error");
+        }
+
+
+
         sc.close();
     }
 }
