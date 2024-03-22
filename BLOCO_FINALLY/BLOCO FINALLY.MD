@@ -5,10 +5,8 @@
 
 # Sintaxe:
 ~~~
-try {
-}
-catch (ExceptionType e) {
-}
-finally {
-}
+try { 
+    } catch (ExceptionType e) { 
+    }finally { 
+    }
 ~~~
