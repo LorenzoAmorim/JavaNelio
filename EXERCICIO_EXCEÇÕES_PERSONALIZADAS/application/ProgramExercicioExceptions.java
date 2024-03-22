@@ -1,4 +1,4 @@
-package EXERCICIO_EXCEÇÕES_PERSONALIZADAS.src;
+package EXERCICIO_EXCEÇÕES_PERSONALIZADAS.application;
 
 import EXERCICIO_EXCEÇÕES_PERSONALIZADAS.model.entities.Account;
 import EXERCICIO_EXCEÇÕES_PERSONALIZADAS.model.exceptions.BusinessException;
