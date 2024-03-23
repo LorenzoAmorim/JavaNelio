@@ -1,0 +1,10 @@
+Bom dia
+Boa tarde
+Boa noite bruno
+Bom dia
+Boa tarde
+Boa noite bruno
+Bom dia
+Boa tarde
+Boa noite bruno
+FileWriter e BufferedWriter
